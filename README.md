@@ -11,7 +11,7 @@ A complete todo application with all features.
 
 ## Project Description
 
-In the project,i have build a simple todo app ,having all the CRUD operations.i have used `React.js` and to manage  states, also i have used  `Redux`. Also wei i have implemented simple animations using `Framer Motion`.
+In the project,i have build a simple todo app ,having all the CRUD operations.i have used `React.js` and to manage  states, also i have used  `Redux`. Also  i have implemented simple animations using `Framer Motion`.
 
 ## technology used
 
