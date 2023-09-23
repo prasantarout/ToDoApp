@@ -130,7 +130,7 @@ function TodoModal({ type, modalOpen, setModalOpen, todo }) {
                 </select>
               </label>
               <div className={styles.buttonContainer}>
-                <Button type="submit" variant="primary">
+                <Button type="submit" variant="secondary">
                   {type === 'add' ? 'Add Task' : 'Update Task'}
                 </Button>
                 <Button variant="secondary" onClick={() => setModalOpen(false)}>
